@@ -33,7 +33,7 @@ I'm ✨**Jocelyn Soto**✨ a **Data Scientist & Data Analyst** passionate about 
    - Applied **SARSA, Q-learning, and policy gradient** methods to solve the **Inverted Pendulum** problem.  
    - Demonstrated expertise in algorithmic research and performance analysis.  
 
-🔹 **[Forecasting Energy Availability from Renewable Sources](https://github.com/nadya-soto/Data-Analysis-Project)** | Python (Jan 2024 - Mar 2024)  
+🔹 **[Forecasting Energy Availability from Renewable Sources](https://github.com/nadya-soto/EcoGrid-Forecast-AI-Driven-Renewable-Energy-Predictions)** | Python (Jan 2024 - Mar 2024)  
    - Applied **time series analysis and machine learning models** to predict energy availability trends.  
    - Achieved **95% accuracy**, showcasing advanced data forecasting skills.  
 ---
