@@ -25,7 +25,7 @@ I'm ✨**Jocelyn Soto**✨ a **Data Scientist & Data Analyst** passionate about 
 ---
 
 ### 📈 Featured Work  
-🔹 **[Dynamic Programming in GridWorld](https://github.com/nadya-soto/Reinforcement-learning-2)** | OpenAI Gym (Jun 2024 - Sep 2024)  
+🔹 **[Dynamic Programming in GridWorld OpenAI-Gym](https://github.com/nadya-soto/Reinforcement-learning)** | OpenAI Gym (Jun 2024 - Sep 2024)
    - Developed decision optimization algorithms to enhance AI agent learning.  
    - Applied reinforcement learning principles to analyze complex problem-solving environments using OpenAI Gym.  
 
