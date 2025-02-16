@@ -12,7 +12,7 @@ I'm ✨**Jocelyn Soto**✨ a **Data Scientist & Data Analyst** passionate about 
 💬 Ask me about **data visualization, machine learning, SQL optimization, and cloud-based analytics!**  
 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/nadya-soto/) | [GitHub](https://github.com/nadya-soto)**  
 😄 Pronouns: **She/Her**  
-⚡ Fun fact: **I love uncovering hidden patterns in data—whether it's in customer behavior or optimizing the best coffee brewing ratios! ☕📊**  
+⚡ Fun fact: **During my master’s degree, I joined the university’s rugby team, played for the first time, and loved it. Before that, I had never watched a rugby match. 🏉⚡🏅🤾‍♀️**  
 
 ---
 
