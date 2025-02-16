@@ -29,7 +29,7 @@ I'm ✨**Jocelyn Soto**✨ a **Data Scientist & Data Analyst** passionate about 
    - Developed decision optimization algorithms to enhance AI agent learning.  
    - Applied reinforcement learning principles to analyze complex problem-solving environments using OpenAI Gym.  
 
-🔹 **[Reinforcement Learning Algorithms](https://github.com/nadya-soto/Reinforcement-learning)** | OpenAI Gym (Jan 2024 - May 2024)  
+🔹 **[Reinforcement Learning Algorithms](https://github.com/nadya-soto/ConnectX_AI_Agents)** | OpenAI Gym (Jan 2024 - May 2024)  
    - Applied **SARSA, Q-learning, and policy gradient** methods to solve the **Inverted Pendulum** problem.  
    - Demonstrated expertise in algorithmic research and performance analysis.  
 
