@@ -5,8 +5,8 @@ I'm ✨**Jocelyn**✨ a **Data Scientist & Data Analyst** passionate about extra
 ---
 
 ### 🔥 About Me  
-🔭 I’m currently working on **data-driven insights, predictive analytics, and cloud-based AI solutions.**  
-🌱 I’m currently learning **MLOps, advanced SQL for big data, and dashboard automation with Power BI & Tableau.**  
+🔭 I’m currently working on **data-driven insights, predictive analytics, advanced SQL for big data and cloud-based AI solutions.**  
+🌱 I’m currently learning **MLOps, ML, AI, NLP**  
 👯 I’m looking to collaborate on **data science projects, business intelligence solutions, and NLP applications.**  
 🤔 I’m looking for help with **deploying ML models in production and automating data pipelines in the cloud.**  
 💬 Ask me about **data visualization, machine learning, SQL optimization, and cloud-based analytics!**  
