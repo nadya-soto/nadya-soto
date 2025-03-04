@@ -1,6 +1,6 @@
 ## 👋 Hi there 
 
-I'm ✨**Jocelyn**✨ a **Data Scientist & Data Analyst** passionate about extracting insights from data, building machine learning models, and optimizing business processes. My background in **applied mathematics, NLP, and cloud computing** allows me to tackle challenges in data science and analytics with a strong problem-solving mindset.  
+I'm ✨**Jocelyn**✨ a **Data Scientist & Analyst** passionate about extracting insights from data, building machine learning models, and optimizing business processes. My background in **applied mathematics, NLP, and cloud computing** allows me to tackle challenges in data science and analytics with a strong problem-solving mindset.  
 
 ---
 
