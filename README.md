@@ -1,11 +1,11 @@
 ## 👋 Hi there 
 
-I'm ✨**Jocelyn**✨ a **Data Scientist** passionate about extracting insights from data, building machine learning models, and optimizing business processes. My background in **applied mathematics, NLP, and cloud computing** allows me to tackle challenges in data science and analytics with a strong problem-solving mindset.  
+I'm ✨**Jocelyn**✨ a tech-driven problem solver with a background in applied mathematics, machine learning, and cloud infrastructure. I build data-powered solutions that range from real-time fraud detection to NLP pipelines. I'm currently expanding my expertise in MLOps and Generative AI, and I’m always curious about how we can push technology further (ethically and practically).
 
 ---
 
-### 🔥 About Me  
-🔭 I’m currently working on **data-driven insights, predictive analytics, advanced SQL for big data and cloud-based AI solutions, ML, AI, NLP.**  
+### 🔥 What I’m Working On
+🔭 Currently focused on  **predictive analytics, advanced SQL for big data, NLP, and cloud-based AI solutions.**  
 🌱 I’m currently learning **MLOps, Cloud computing**  
 👯 I’m looking to collaborate on **data science projects, business intelligence solutions, and NLP applications.**  
 🤔 I’m looking for help with **deploying ML models in production and automating data pipelines in the cloud.**  
@@ -24,7 +24,7 @@ I'm ✨**Jocelyn**✨ a **Data Scientist** passionate about extracting insights 
 
 ---
 
-### 📈 Featured Work  
+### 🚀 Featured Projects
 🔹 **[Dynamic Programming in GridWorld OpenAI-Gym](https://github.com/nadya-soto/Reinforcement-learning)** | OpenAI Gym (Jun 2024 - Sep 2024)
    - Developed decision optimization algorithms to enhance AI agent learning.  
    - Applied reinforcement learning principles to analyze complex problem-solving environments using OpenAI Gym.  
