@@ -38,9 +38,9 @@ I'm ✨**Jocelyn**✨ a **Data Scientist** passionate about extracting insights 
    - Achieved **95% accuracy**, showcasing advanced data forecasting skills.
      
 🔹 **[Audio Analysis App](https://github.com/nadya-soto/Audio-Analysis-App)** | Python, Streamlit, Whisper, spaCy (May 2025)
-    - This is a Natural Language Processing (NLP) and Machine Learning (ML) powered Streamlit application that analyzes speech from uploaded audio files.
-    - Developed an interactive web app for processing audio input, performing transcription, classification, sentiment analysis, keyword extraction, and named entity recognition.
-    - Used Streamlit to deliver an intuitive UI supporting audio upload and real-time NLP insights.
+   - This is a Natural Language Processing (NLP) and Machine Learning (ML) powered Streamlit application that analyzes speech from uploaded audio files.
+   - Developed an interactive web app for processing audio input, performing transcription, classification, sentiment analysis, keyword extraction, and named entity recognition.
+   - Used Streamlit to deliver an intuitive UI supporting audio upload and real-time NLP insights.
    
 ---
 
