@@ -35,7 +35,13 @@ I'm ✨**Jocelyn**✨ a **Data Scientist** passionate about extracting insights 
 
 🔹 **[Forecasting Energy Availability from Renewable Sources](https://github.com/nadya-soto/EcoGrid-Forecast-AI-Driven-Renewable-Energy-Predictions)** | Python (Jan 2024 - Mar 2024)  
    - Applied **time series analysis and machine learning models** to predict energy availability trends.  
-   - Achieved **95% accuracy**, showcasing advanced data forecasting skills.  
+   - Achieved **95% accuracy**, showcasing advanced data forecasting skills.
+     
+🔹 **[Audio Analysis App](https://github.com/nadya-soto/Audio-Analysis-App)** | Python, Streamlit, Whisper, spaCy (May 2025)
+    - This is a Natural Language Processing (NLP) and Machine Learning (ML) powered Streamlit application that analyzes speech from uploaded audio files.
+    - Developed an interactive web app for processing audio input, performing transcription, classification, sentiment analysis, keyword extraction, and named entity recognition.
+    - Used Streamlit to deliver an intuitive UI supporting audio upload and real-time NLP insights.
+   
 ---
 
 📈 **Projects & Interests:**  
