@@ -24,23 +24,33 @@ I'm ✨**Jocelyn**✨ a tech-driven problem solver with a background in applied 
 ---
 
 ### 🚀 Featured Projects
-🔹 **[Dynamic Programming in GridWorld OpenAI-Gym](https://github.com/nadya-soto/Reinforcement-learning)** | OpenAI Gym (Jun 2024 - Sep 2024)
-   - Developed decision optimization algorithms to enhance AI agent learning.  
-   - Applied reinforcement learning principles to analyze complex problem-solving environments using OpenAI Gym.  
-
-🔹 **[Reinforcement Learning Algorithms](https://github.com/nadya-soto/ConnectX_AI_Agents)** | OpenAI Gym (Jan 2024 - May 2024)  
-   - Applied **SARSA, Q-learning, and policy gradient** methods to solve the **Inverted Pendulum** problem.  
-   - Demonstrated expertise in algorithmic research and performance analysis.  
-
-🔹 **[Forecasting Energy Availability from Renewable Sources](https://github.com/nadya-soto/EcoGrid-Forecast-AI-Driven-Renewable-Energy-Predictions)** | Python (Jan 2024 - Mar 2024)  
-   - Applied **time series analysis and machine learning models** to predict energy availability trends.  
-   - Achieved **95% accuracy**, showcasing advanced data forecasting skills.
-     
 🔹 **[Audio Analysis App](https://github.com/nadya-soto/Audio-Analysis-App)** | Python, Streamlit, Whisper, spaCy (May 2025)
-   - This is a Natural Language Processing (NLP) and Machine Learning (ML) powered Streamlit application that analyzes speech from uploaded audio files.
-   - Developed an interactive web app for processing audio input, performing transcription, classification, sentiment analysis, keyword extraction, and named entity recognition.
-   - Used Streamlit to deliver an intuitive UI supporting audio upload and real-time NLP insights.
+   - Built an intuitive web app to process and analyze audio files using Whisper and spaCy.
+   - Features include real-time speech transcription, text classification, sentiment analysis, keyword extraction, and named entity recognition.
+   - Designed for users with no coding background; supports use in customer support and voice documentation pipelines.
+
+🔹 **[UK Sanctions Data Cleaning Pipeline](https://github.com/nadya-soto/uk-sanctions-cleaning-project)** | Python, Pandas (Apr 2025)
+   - Cleaned, standardized, and restructured the UK sanctions dataset for further analysis and policy insights.
+   - Identified discrepancies and implemented automated formatting scripts to improve data quality.
+
+🔹 **[Renewable Energy Forecasting](https://github.com/nadya-soto/EcoGrid-Forecast-AI-Driven-Renewable-Energy-Predictions)** | Python (Jan 2024 - Mar 2024)  
+   - Developed ML models to forecast energy availability from solar and wind sources with over 95% accuracy.
+   - Used ARIMA, LSTM, and Prophet for model comparison.
+   - Project focused on supporting smart grid planning and sustainable energy management.
+
+🔹 **[Reinforcement Learning Suite](https://github.com/nadya-soto/ConnectX_AI_Agents)** | OpenAI Gym (Jan 2024 - May 2024)  
+   - Implemented Q-Learning, SARSA, and Policy Gradient to solve environments like Inverted Pendulum and FrozenLake.
+   - Tuned exploration strategies and reward shaping to improve agent performance.
+   - Delivered insights on convergence, policy improvement, and performance stability.
+     
+🔹 **[GridWorld Optimization with Dynamic Programming](https://github.com/nadya-soto/Reinforcement-learning)** | OpenAI Gym (Jun 2024 - Sep 2024)
+   - Applied value iteration and policy iteration to teach an agent how to navigate complex environments.
+   - Enhanced decision-making under uncertainty using Bellman updates and reward design.
+
+     
+
    
+
 ---
 
 📈 **Projects & Interests:**  
