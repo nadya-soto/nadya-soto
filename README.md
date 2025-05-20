@@ -12,7 +12,6 @@ I'm ✨**Jocelyn**✨ a tech-driven problem solver with a background in applied 
 💬 Ask me about **data visualization, machine learning, SQL optimization, and cloud-based analytics!**  
 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/nadya-soto/) | [GitHub](https://github.com/nadya-soto)**  
 😄 Pronouns: **She/Her**  
-⚡ Fun fact: **During my master’s degree, I joined the university’s rugby team, played for the first time, and loved it. Before that, I had never watched a rugby match. 🏉⚡🏅🤾‍♀️**  
 
 ---
 
