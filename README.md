@@ -19,12 +19,13 @@ I'm ✨**Jocelyn**✨ a tech-driven problem solver with a background in applied 
    - Used ARIMA, LSTM, and Prophet for model comparison.
    - Project focused on supporting smart grid planning and sustainable energy management.
 
-🔹 **[Reinforcement Learning Suite](https://github.com/nadya-soto/ConnectX_AI_Agents)** | OpenAI Gym (Jan 2024 - May 2024)  
+🔹 **[GridWorld Optimization with Dynamic Programming conectX
+](https://github.com/nadya-soto/ConnectX_AI_Agents)** | OpenAI Gym (Jan 2024 - May 2024)  
    - Implemented Q-Learning, SARSA, and Policy Gradient to solve environments like Inverted Pendulum and FrozenLake.
    - Tuned exploration strategies and reward shaping to improve agent performance.
    - Delivered insights on convergence, policy improvement, and performance stability.
      
-🔹 **[GridWorld Optimization with Dynamic Programming](https://github.com/nadya-soto/Reinforcement-learning)** | OpenAI Gym (Jun 2024 - Sep 2024)
+🔹 **[Reinforcement Learning Suite](https://github.com/nadya-soto/Reinforcement-learning)** | OpenAI Gym (Jun 2024 - Sep 2024)
    - Applied value iteration and policy iteration to teach an agent how to navigate complex environments.
    - Enhanced decision-making under uncertainty using Bellman updates and reward design.
 ---
