@@ -5,6 +5,12 @@ I'm ✨**Jocelyn**✨ a tech-driven problem solver with a background in applied 
 ---
 
 ### 🚀 Featured Projects
+
+🔹 **[London Poverty Analysis Dashboard](https://nadyasoto-london-poverty-analysis.streamlit.app/)** | Python, Streamlit, Whisper, spaCy (May 2025)
+   - Built an intuitive web app to process and analyze audio files using Whisper and spaCy.
+   - Features include real-time speech transcription, text classification, sentiment analysis, keyword extraction, and named entity recognition.
+   - Designed for users with no coding background; supports use in customer support and voice documentation pipelines.
+
 🔹 **[Audio Analysis App](https://github.com/nadya-soto/Audio-Analysis-App)** | Python, Streamlit, Whisper, spaCy (May 2025)
    - Built an intuitive web app to process and analyze audio files using Whisper and spaCy.
    - Features include real-time speech transcription, text classification, sentiment analysis, keyword extraction, and named entity recognition.
