@@ -4,25 +4,6 @@ I'm ✨**Jocelyn**✨ a tech-driven problem solver with a background in applied 
 
 ---
 
-### 🔥 What I’m Working On
-🔭 Currently focused on  **predictive analytics, advanced SQL for big data, NLP, and cloud-based AI solutions.**  
-🌱 I’m currently learning **MLOps, Cloud computing**  
-👯 I’m looking to collaborate on **data science projects, business intelligence solutions, and NLP applications.**  
-🤔 I’m looking for help with **deploying ML models in production and automating data pipelines in the cloud.**  
-💬 Ask me about **data visualization, machine learning, SQL optimization, and cloud-based analytics!**  
-📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/nadya-soto/) | [GitHub](https://github.com/nadya-soto)**  
-😄 Pronouns: **She/Her**  
-
----
-
-### 💻 Tech Stack  
-📊 **Data Analysis & BI:** SQL | Excel | Power BI | Tableau | Pandas  
-📈 **Data Science & ML:** Python | Scikit-Learn | NLP | Regression | Classification | Forecasting  
-☁️ **Cloud & MLOps:** Azure | AWS | Airflow  
-🛠️ **ETL & Databases:** SQL Server | PostgreSQL | BigQuery  
-
----
-
 ### 🚀 Featured Projects
 🔹 **[Audio Analysis App](https://github.com/nadya-soto/Audio-Analysis-App)** | Python, Streamlit, Whisper, spaCy (May 2025)
    - Built an intuitive web app to process and analyze audio files using Whisper and spaCy.
@@ -46,10 +27,24 @@ I'm ✨**Jocelyn**✨ a tech-driven problem solver with a background in applied 
 🔹 **[GridWorld Optimization with Dynamic Programming](https://github.com/nadya-soto/Reinforcement-learning)** | OpenAI Gym (Jun 2024 - Sep 2024)
    - Applied value iteration and policy iteration to teach an agent how to navigate complex environments.
    - Enhanced decision-making under uncertainty using Bellman updates and reward design.
+---
 
-     
+### 🔥 What I’m Working On
+🔭 Currently focused on  **predictive analytics, advanced SQL for big data, NLP, and cloud-based AI solutions.**  
+🌱 I’m currently learning **MLOps, Cloud computing**  
+👯 I’m looking to collaborate on **data science projects, business intelligence solutions, and NLP applications.**  
+🤔 I’m looking for help with **deploying ML models in production and automating data pipelines in the cloud.**  
+💬 Ask me about **data visualization, machine learning, SQL optimization, and cloud-based analytics!**  
+📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/nadya-soto/) | [GitHub](https://github.com/nadya-soto)**  
+😄 Pronouns: **She/Her**  
 
-   
+---
+
+### 💻 Tech Stack  
+📊 **Data Analysis & BI:** SQL | Excel | Power BI | Tableau | Pandas  
+📈 **Data Science & ML:** Python | Scikit-Learn | NLP | Regression | Classification | Forecasting  
+☁️ **Cloud & MLOps:** Azure | AWS | Airflow  
+🛠️ **ETL & Databases:** SQL Server | PostgreSQL | BigQuery  
 
 ---
 
