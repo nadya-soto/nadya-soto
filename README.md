@@ -16,7 +16,7 @@ I'm ✨**Jocelyn**✨ a tech-driven problem solver with a background in applied 
    - Features include real-time speech transcription, text classification, sentiment analysis, keyword extraction, and named entity recognition.
    - Designed for users with no coding background; supports use in customer support and voice documentation pipelines.
 
-🔹 **[UK Sanctions Data Cleaning Pipeline](https://github.com/nadya-soto/uk-sanctions-cleaning-project)** | Python, Pandas (Apr 2025)
+🔹 **[UK Sanctions Data Cleaning Pipeline](https://github.com/nadya-soto/uk-sanctions)** | Python, Pandas (Apr 2025)
    - Cleaned, standardized, and restructured the UK sanctions dataset for further analysis and policy insights.
    - Identified discrepancies and implemented automated formatting scripts to improve data quality.
 
